@@ -1,0 +1,43 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Theoretical Physics"
+    ],
+    [
+      "Mathematics",
+      "Differential Equations"
+    ],
+    [
+      "Mathematics",
+      "Mathematical Analysis"
+    ],
+    [
+      "Mathematics",
+      "Calculus"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "ae859055-87a9-d382-0eae-49d399fa7719"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Integral Equations",
+  "course_description": "This course emphasizes concepts and techniques for solving integral equations from an applied mathematics perspective. Material is selected from the following topics: Volterra and Fredholm equations, Fredholm theory, the Hilbert-Schmidt theorem; Wiener-Hopf Method; Wiener-Hopf Method and partial differential equations; the Hilbert Problem and singular integral equations of Cauchy type; inverse scattering transform; and group theory. Examples are taken from fluid and solid mechanics, acoustics, quantum mechanics, and other applications.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.307",
+  "learning_resource_types": [
+    "Problem Sets with Solutions"
+  ],
+  "title": "Course Metadata"
+}
